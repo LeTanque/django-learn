@@ -28,6 +28,7 @@ Check to make sure it works by dropping into a shell and manually adding a note.
 
 
 
+
 ```
 >>> from api.models import Note
 >>> note = Note(title="First Note", body="This is certainly noteworthy")
